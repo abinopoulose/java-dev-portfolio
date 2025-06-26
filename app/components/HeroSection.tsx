@@ -30,11 +30,12 @@ export default function HeroSection() {
 						<div className="flex flex-wrap gap-2 mt-2">
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">JavaScript</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">React</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Node.js</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Express.js</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Spring Boot</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Java</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Node.js</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Docker</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">AWS</span> 
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">AWS EC2</span> 
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">GitLab CI/CD</span>
 						</div>
 					</div>
