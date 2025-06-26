@@ -37,6 +37,10 @@ export default function HeroSection() {
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Docker</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">AWS EC2</span> 
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">GitLab CI/CD</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">MongoDB</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">PostgreSQL</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Nginx</span>
+
 						</div>
 					</div>
 				</motion.div>
